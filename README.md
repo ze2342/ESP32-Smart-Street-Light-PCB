@@ -39,4 +39,4 @@ This project is an ESP32-based automatic street light controller designed using 
 
 ## Author
 
-Your Name
+Zeeshan Ahmad
